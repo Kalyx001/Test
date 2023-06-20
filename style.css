@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    width: auto;
+    height: auto;
+    background-color: #003;
+    align-content: center;
+    
+}
+.header{
+    width: auto;
+    height: 150px;
+    border-bottom: 1px orange solid;
+    
+}
+.header h{
+    height: 50px;
+    width: 200px;
+    color: orange;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 10px;
+    font-family: Arial;
+    justify-content: center;
+    float: left;
+}
+.menu{
+    width: auto;
+    height: auto;
+    float: left;
+    margin-top: 30px;
+    
+}
+.menu ul{
+    align-items: center;
+}
+.menu ul li{
+    display: inline;
+    border: 1px orange solid;
+    border-radius: 5px;
+    margin-left: 18px;
+    line-height: 25px;
+    align-items: center;
+    : 20px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: orange;
+    padding: 5px;
+    font-weight: bold;
+    
+}
+.content{
+    width: auto;
+    height: auto;
+    
+}
+.content h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+    margin: 8%;
+    
+}
+.content h1 span{
+    font-size: 50px;
+    color: orange;
+    
+}
+img{
+    width: 80%;
+    height: normal;
+    margin-left: 10%;
+    margin-right:10%;
+    border-radius: 20px;
+}
+.content h2{
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 40px;
+    border: 1px orange solid;
+    padding: 20px;
+    padding-left: 20px;
+}
+.content h3{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 50px;
+    
+}
+.content h3 span{
+    color: orange;
+    
+}
+.content button a{
+    font-size: 25px;
+    text-decoration: none;
+    color: orange;
+}
+.content a{
+    color: orange;
+    font-size: 40px;
+}
+button{
+    height: 70px;
+    width: 50%;
+    background: transparent;
+    color: orange;
+    position: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 30px;
+    border: 1px orange solid;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.footer{
+    width: auto;
+    height: 200px;
+    border-top: 1px orange solid;
+    margin-top: 100%;
+    
+}
+.footer ul{
+    height: 200px;
+    border-right: 1px white solid;
+    width: 150px;
+    padding-top: 15px;
+    padding-right: 10px;
+    
+}
+.footer ul a{
+    text-decoration: none;
+    color: orange;
+    text-align: center;
+    line-height: 10px;
+    text-align: right;
+
+}
+.footer ul a li{
+    display: normal;
+    width: 150px;
+    height: 20px;
+    margin-top: 7px;
+}
